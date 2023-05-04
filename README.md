@@ -34,8 +34,24 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
+    <td>
+     <h3>Serviços</h3>
+     <ul>
+      <li>
+       <p>Web Design</p>
+      </li>
+      <li>
+       <p>Desenvolvimento Web</p>
+      </li>
+      <li>
+       <p>Edição de Vídeo</p>
+      </li>
+      <li>
+       <p>Criação de Jogos</p>
+      </li>
+     </ul>
+    </td>
     <td style="border: 0";>
-      </p>
       <h3>Redes sociais!</h3>
       <ul>
         <li>
