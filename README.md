@@ -52,7 +52,7 @@
      </ul>
     </td>
     <td style="border: 0";>
-      <h3>Redes sociais!</h3>
+      <h3 align="center">Redes sociais!</h3>
       <ul>
         <li>
           <a href="https://twitter.com/BaianKun">Twitter 🐦</a>
