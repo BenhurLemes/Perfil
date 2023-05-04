@@ -1,9 +1,6 @@
 # Olá!👋
 ## Sou Benhur Lemes da silva, Web designer e Web developer💻
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=github_dark) |
-| :-: | :-: | :-: |
-
 <div>
   <h2 align="center">Carreira de Trabalho</h2>
   <p>Como profissional na área de tecnologia, busco sempre me manter atualizado e crescer na minha carreira. Em particular, tenho um grande interesse na área de desenvolvimento web, 
@@ -33,6 +30,9 @@
   </div>
 <div><br>
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=github_dark) |
+| :-: | :-: | :-: |
+  
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
