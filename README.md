@@ -13,7 +13,8 @@
   </div>
 </div>
 
-<div><br>
+<div>
+  <div><br>
   <p></p>
   <h3>Materiais usados nos hobbys:</h3>
   <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -21,7 +22,8 @@
   <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
   <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-</div><br>
+  </div>
+<div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=vision_friendly_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=vision_friendly_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenhurLemes&theme=vision_friendly_dark) | 
 | :-: | :-: | | :-: | :-: |
