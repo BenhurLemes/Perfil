@@ -34,7 +34,7 @@
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td tyle="border: 0";>
      <h3>Serviços</h3>
      <ul>
       <li>
