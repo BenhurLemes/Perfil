@@ -29,5 +29,28 @@
   </div>
 <div><br>
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
+    </td>
+    <td style="border: 0";>
+      </p>
+      <h3>Other places you can find me</h3>
+      <ul>
+        <li>
+         Twitter 🐦 <a href="https://twitter.com/BaianKun">Follow me</a>
+        </li>
+        <li>
+          Linkedin 👔 <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/">Follow me</a>
+        </li>
+        <li>
+          Email 📬 <a href=mailto:Benhurlemes1@gmail.com>Contact-me</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=github_dark) |
 | :-: | :-: | :-: |
