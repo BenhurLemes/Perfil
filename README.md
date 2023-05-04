@@ -2,6 +2,7 @@
 ## Sou Benhur Lemes da silva, Web designer e Web developer💻
 
 <div>
+  <h2 align="center">Carreira de Trabalho</h2>
   <p>Tenho desejo de fazer um site</p>
   <div>
     <h3>Materiais de trabalho:</h3>
@@ -14,6 +15,7 @@
 </div><br>
 
 <div>
+   <h2 align="center">Fora da rotina</h2>
   <p>Gosto de ampliar meu trabalho</p>
   <div>
     <h3>Materiais usados nos hobbys:</h3>
