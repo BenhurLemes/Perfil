@@ -29,11 +29,11 @@
   </div>
 <div><br>
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=github_dark) |
+| :-: | :-: | :-: |
+
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: 0";>
-     <P><P>
-    </td>
     <td style="border: 0";>
       </p>
       <h3>Other places you can find me</h3>
@@ -51,6 +51,3 @@
     </td>
   </tr>
 </table>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=github_dark) |
-| :-: | :-: | :-: |
