@@ -24,4 +24,4 @@
 </div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=vision_friendly_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=vision_friendly_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenhurLemes&theme=vision_friendly_dark) | 
-| :-: | :-: |
+| :-: | :-: | | :-: | :-: |
