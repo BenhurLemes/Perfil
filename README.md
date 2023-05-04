@@ -2,7 +2,7 @@
 ## Sou Benhur Lemes da silva, Web designer e Web developer💻
 
 <div>
-  <p></p>
+  <p>Tenho desejo de fazer um site</p>
   <div>
     <h3>Materiais de trabalho:</h3>
     <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -14,7 +14,7 @@
 </div><br>
 
 <div>
-  <p></p>
+  <p>Gosto de ampliar meu trabalho</p>
   <div>
     <h3>Materiais usados nos hobbys:</h3>
     <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
