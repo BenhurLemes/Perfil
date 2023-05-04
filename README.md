@@ -36,7 +36,7 @@
   <tr>
     <td style="border: 0";>
       </p>
-      <h3>Other places you can find me</h3>
+      <h3>Redes sociais!</h3>
       <ul>
         <li>
           <a href="https://twitter.com/BaianKun">Twitter 🐦</a>
