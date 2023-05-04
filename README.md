@@ -23,6 +23,4 @@
   <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 </div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=vision_friendly_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=vision_friendly_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=vision_friendly_dark)
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenhurLemes&theme=vision_friendly_dark) |
-| :-: | :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=vision_friendly_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=vision_friendly_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenhurLemes&theme=vision_friendly_dark) | | :-: | :-: | :-: |
