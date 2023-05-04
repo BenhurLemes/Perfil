@@ -39,13 +39,13 @@
       <h3>Other places you can find me</h3>
       <ul>
         <li>
-         Twitter 🐦 <a href="https://twitter.com/BaianKun">Follow me</a>
+          <a href="https://twitter.com/BaianKun">Twitter 🐦</a>
         </li>
         <li>
-          Linkedin 👔 <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/">Follow me</a>
+          <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/">Linkedin 👔 </a>
         </li>
         <li>
-          Email 📬 <a href=mailto:Benhurlemes1@gmail.com>Contact-me</a>
+          <a href=mailto:Benhurlemes1@gmail.com>Email 📬</a>
         </li>
       </ul>
     </td>
