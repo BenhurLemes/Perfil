@@ -23,7 +23,7 @@
   <p>Embora eu trabalhe na área web, sou uma pessoa curiosa e gosto de explorar outras áreas, inclusive aquelas que não estão diretamente relacionadas ao meu trabalho. Recentemente, 
   tenho me interessado pelo game design, pois acredito que essa área apresenta muitas possibilidades criativas e desafios interessantes.</p>
   <div>
-    <h3 text-align="center">Materiais usados nos hobbys:</h3>
+    <h3 align="center">Materiais usados nos hobbys:</h3>
     <ul align="center">
       <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
