@@ -17,16 +17,16 @@
 </div><br>
 
 <div>
-   <h2 align="center">Fora da rotina</h2>
+   <h2 text-align="center">Fora da rotina</h2>
   <p>Embora eu trabalhe na área web, sou uma pessoa curiosa e gosto de explorar outras áreas, inclusive aquelas que não estão diretamente relacionadas ao meu trabalho. Recentemente, 
   tenho me interessado pelo game design, pois acredito que essa área apresenta muitas possibilidades criativas e desafios interessantes.</p>
   <div>
-    <h3>Materiais usados nos hobbys:</h3>
-    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+    <h3 text-align="center">Materiais usados nos hobbys:</h3>
+    <img display="block" alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img display="block" alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img display="block" alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img display="block" alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+    <img display="block" alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   </div>
 </div><br>
 
