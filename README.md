@@ -7,7 +7,7 @@
   pois acredito que essa é uma das áreas mais dinâmicas e inovadoras da tecnologia. </p> 
  
   <div>
-    <h3>Materiais de trabalho:</h3>
+    <h3 align="center">Materiais de trabalho:</h3>
     <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align='center' alt='icones' height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
