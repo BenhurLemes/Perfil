@@ -22,11 +22,11 @@
   tenho me interessado pelo game design, pois acredito que essa área apresenta muitas possibilidades criativas e desafios interessantes.</p>
   <div>
     <h3>Materiais usados nos hobbys:</h3>
-    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+    <img alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   </div>
 <div><br>
 
