@@ -46,10 +46,7 @@ Web designer e Web developer💻
 
 <h2 align="center">Relatórios</h2>
 
-<div>
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=dark)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&theme=dark)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=dark)
-
-</div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=dark)
