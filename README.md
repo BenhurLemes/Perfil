@@ -1,25 +1,25 @@
 # Olá!👋 Sou Benhur Lemes da silva
 Web designer e Web developer💻
 
+<div display="inline">
+  
+</div>
+
 <div align="center">
   <h2>Carreira de Trabalho</h2>
-  <p>Como profissional na área de tecnologia, busco sempre me manter atualizado e crescer na minha carreira. Em particular, tenho um grande interesse na área de desenvolvimento web, 
-  pois acredito que essa é uma das áreas mais dinâmicas e inovadoras da tecnologia. </p> 
- 
-  <div>
-    <h3>Materiais de trabalho:</h3>
-    <ul align="center">
-      <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-      <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-      <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-    </ul>
-  </div>
-</div><br>
-
+  <p>Como profissional na área de tecnologia, busco sempre me manter atualizado e crescer na minha carreira. Em particular, tenho um grande interesse na área de desenvolvimento web, pois acredito que essa é uma das áreas mais dinâmicas e inovadoras da tecnologia.</p> 
+  <h3>Materiais de trabalho:</h3>
+  <ul align="center">
+    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align='center' alt='icones' height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  </ul>
+</div>
+<br>
 <div>
   <h2 align="center">Fora da rotina</h2>
   <p>Embora eu trabalhe na área web, sou uma pessoa curiosa e gosto de explorar outras áreas, inclusive aquelas que não estão diretamente relacionadas ao meu trabalho. Recentemente, 
