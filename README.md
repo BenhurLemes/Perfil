@@ -39,38 +39,17 @@ Web designer e Web developer💻
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) |
 | :-: | :-: |
 
-<table align="center" border="1" cellspacing="1" cellpadding="1">
-  <tr>
-    <td>
-     <h3>Serviços</h3>
-     <ul>
-      <li>
-       <p>Web Design</p>
-      </li>
-      <li>
-       <p>Desenvolvimento Web</p>
-      </li>
-      <li>
-       <p>Edição de Vídeo</p>
-      </li>
-      <li>
-       <p>Criação de Jogos</p>
-      </li>
-     </ul>
-    </td>
-    <td style="border: 0;">
-      <h3>Redes sociais!</h3>
-      <ul>
-        <li>
-          <a href="https://twitter.com/BaianKun">Twitter 🐦</a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/">Linkedin 👔 </a>
-        </li>
-        <li>
-          <a href=mailto:Benhurlemes1@gmail.com>Email 📬</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<aside>
+  <h3>Redes sociais!</h3>
+  <ul>
+    <li>
+      <a href="https://twitter.com/BaianKun">Twitter 🐦</a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/">Linkedin 👔 </a>
+    </li>
+    <li>
+      <a href=mailto:Benhurlemes1@gmail.com>Email 📬</a>
+    </li>
+  </ul>
+</aside>
