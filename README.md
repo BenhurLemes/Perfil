@@ -1,8 +1,8 @@
-# Olá!👋 
-## Sou Benhur Lemes da silva, Web designer e Web developer💻
+# Olá!👋 Sou Benhur Lemes da silva
+Web designer e Web developer💻
 
-<div>
-  <h2 align="center">Carreira de Trabalho</h2>
+<div align="center">
+  <h2>Carreira de Trabalho</h2>
   <p>Como profissional na área de tecnologia, busco sempre me manter atualizado e crescer na minha carreira. Em particular, tenho um grande interesse na área de desenvolvimento web, 
   pois acredito que essa é uma das áreas mais dinâmicas e inovadoras da tecnologia. </p> 
  
