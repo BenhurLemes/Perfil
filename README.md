@@ -15,8 +15,8 @@ Web designer e Web developer💻
     </li>
   </ul>
 </div>
-<div align="center">
-  <h2>Carreira de Trabalho</h2>
+<div>
+  <h2 align="center">Carreira de Trabalho</h2>
   <p>Como profissional na área de tecnologia, busco sempre me manter atualizado e crescer na minha carreira. Em particular, tenho um grande interesse na área de desenvolvimento web, pois acredito que essa é uma das áreas mais dinâmicas e inovadoras da tecnologia.</p> 
   <h3>Materiais de trabalho:</h3>
   <ul align="center">
@@ -30,8 +30,8 @@ Web designer e Web developer💻
   </ul>
 </div>
 <br>
-<div align="center">
-  <h2>Fora da rotina</h2>
+<div>
+  <h2 align="center">Fora da rotina</h2>
   <p>Embora eu trabalhe na área web, sou uma pessoa curiosa e gosto de explorar outras áreas, inclusive aquelas que não estão diretamente relacionadas ao meu trabalho. Recentemente, tenho me interessado pelo game design, pois acredito que essa área apresenta muitas possibilidades criativas e desafios interessantes.</p>
   <div>
     <h3>Materiais usados nos hobbys:</h3>
