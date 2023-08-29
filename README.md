@@ -22,8 +22,7 @@ Web designer e Web developer💻
 <br>
 <div>
   <h2 align="center">Fora da rotina</h2>
-  <p>Embora eu trabalhe na área web, sou uma pessoa curiosa e gosto de explorar outras áreas, inclusive aquelas que não estão diretamente relacionadas ao meu trabalho. Recentemente, 
-  tenho me interessado pelo game design, pois acredito que essa área apresenta muitas possibilidades criativas e desafios interessantes.</p>
+  <p>Embora eu trabalhe na área web, sou uma pessoa curiosa e gosto de explorar outras áreas, inclusive aquelas que não estão diretamente relacionadas ao meu trabalho. Recentemente, tenho me interessado pelo game design, pois acredito que essa área apresenta muitas possibilidades criativas e desafios interessantes.</p>
   <div>
     <h3>Materiais usados nos hobbys:</h3>
     <ul align="center">
