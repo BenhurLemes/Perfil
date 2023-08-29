@@ -41,7 +41,7 @@ Web designer e Web developer💻
   
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: 0";>
+    <td style="border: 0;">
      <h3>Serviços</h3>
      <ul>
       <li>
@@ -58,7 +58,7 @@ Web designer e Web developer💻
       </li>
      </ul>
     </td>
-    <td style="border: 0";>
+    <td style="border: 0;">
       <h3>Redes sociais!</h3>
       <ul>
         <li>
