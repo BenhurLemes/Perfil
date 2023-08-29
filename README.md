@@ -36,7 +36,8 @@ Web designer e Web developer💻
 
 <h2 align="center">Relatórios</h2>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) |
+<div display="inline">
+  |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) |
 | :-: | :-: |
   
 <table align="center" border="0" cellspacing="0" cellpadding="0">
@@ -74,3 +75,4 @@ Web designer e Web developer💻
     </td>
   </tr>
 </table>
+</div>
