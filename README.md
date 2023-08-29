@@ -49,4 +49,5 @@ Web designer e Web developer💻
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenhurLemes&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenhurLemes&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BenhurLemes&theme=dark&utcOffset=8)
