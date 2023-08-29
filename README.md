@@ -46,9 +46,8 @@ Web designer e Web developer💻
 
 <h2 align="center">Relatórios</h2>
 
-
-[![](https://raw.githubusercontent.com/BenhurLemes/github-profile-summary-cards-example/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/BenhurLemes/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/BenhurLemes/github-profile-summary-cards-example/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/BenhurLemes/github-profile-summary-cards) [![](https://raw.githubusercontent.com/BenhurLemes/github-profile-summary-cards-example/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/BenhurLemes/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/BenhurLemes/github-profile-summary-cards-example/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/BenhurLemes/github-profile-summary-cards) [![](https://raw.githubusercontent.com/BenhurLemes/github-profile-summary-cards-example/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/BenhurLemes/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenhurLemes&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BenhurLemes&theme=dark&utcOffset=8)
 
 
