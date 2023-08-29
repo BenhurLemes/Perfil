@@ -39,10 +39,9 @@ Web designer e Web developer💻
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) |
 | :-: | :-: |
 
-<div display="inline">
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="1" cellspacing="1" cellpadding="1">
   <tr>
-    <td style="border: 0;">
+    <td>
      <h3>Serviços</h3>
      <ul>
       <li>
@@ -75,4 +74,3 @@ Web designer e Web developer💻
     </td>
   </tr>
 </table>
-</div>
