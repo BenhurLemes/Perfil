@@ -1,6 +1,20 @@
 ### Olá!👋 Sou Benhur Lemes da silva
 Web designer e Web developer💻
 
+<div display="inline">
+    <h3>Redes sociais!</h3>
+  <ul>
+    <li>
+      <a href="https://twitter.com/BaianKun">Twitter 🐦</a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/">Linkedin 👔 </a>
+    </li>
+    <li>
+      <a href=mailto:Benhurlemes1@gmail.com>Email 📬</a>
+    </li>
+  </ul>
+</div>
 <div align="center">
   <h2>Carreira de Trabalho</h2>
   <p>Como profissional na área de tecnologia, busco sempre me manter atualizado e crescer na minha carreira. Em particular, tenho um grande interesse na área de desenvolvimento web, pois acredito que essa é uma das áreas mais dinâmicas e inovadoras da tecnologia.</p> 
@@ -34,18 +48,3 @@ Web designer e Web developer💻
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenhurLemes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenhurLemes&hide=Html&theme=github_dark) |
 | :-: | :-: |
-
-<div display="inline">
-    <h3>Redes sociais!</h3>
-  <ul>
-    <li>
-      <a href="https://twitter.com/BaianKun">Twitter 🐦</a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/">Linkedin 👔 </a>
-    </li>
-    <li>
-      <a href=mailto:Benhurlemes1@gmail.com>Email 📬</a>
-    </li>
-  </ul>
-</div>
