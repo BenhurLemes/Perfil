@@ -58,6 +58,8 @@ Web designer e Web developer💻
       </li>
      </ul>
     </td>
+  </tr>
+  <tr>
     <td style="border: 0";>
       <h3>Redes sociais!</h3>
       <ul>
